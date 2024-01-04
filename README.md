@@ -10,3 +10,8 @@
 2.Forrest Gump
 3.Red
 4.Rad
+
+Atistas del año
+1. Pedro Suarez
+2.Taylor
+3.Perico Leon
